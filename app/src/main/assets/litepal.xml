@@ -2,7 +2,7 @@
     <!--指定数据库名为cool_weather-->
     <dbname value="cool_weather"/>
     <!--指定数据版本为1-->
-    <version value="1"/>
+    <version value="2"/>
 
     <!--将Province、City、County这三个实体类添加到映射列表当中-->
     <list>
